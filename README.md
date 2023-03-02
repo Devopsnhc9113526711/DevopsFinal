@@ -26,7 +26,7 @@ https://youtu.be/vhnFcb4cf7I
 
 ## Run Locally 
 
-- Run this command `git clone https://github.com/developer-junaid/Nike-Shoe-Store.git`
+- Run this command `https://github.com/Devopsnhc9113526711/DevopsFinal.git`
 - You are now in the dev environment and you can play around 
 
 ## Tech Stack
